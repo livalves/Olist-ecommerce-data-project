@@ -1,16 +1,16 @@
 # Olist E-commerce Data Project
 
-**Teste Técnico - Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps 2025**
+**Teste Técnico - Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps 2025.**
 
 ## 📌 Objetivo
 
 Analisar o conjunto de dados históricos de vendas de uma empresa brasileira de e-commerce (Olist) para extrair insights relevantes e resolver desafios de negócio com foco em Engenharia de Dados.
 
-## 🧰 Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - Python 
 - SQL 
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook 
 
 ## 🎲 Dataset Utilizado 
 
@@ -18,7 +18,7 @@ Foi utilizado o dataset o "Brazilian E-commerce Public Dataset by Olist" dispon�
 
 - [Olist Brazilian E-commerce Dataset - Kaggle]( https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-## 📊 Etapas do Projeto
+## 🗃️ Etapas do Projeto
 
 1. Preparação dos Dados 
     - Leitura e tratamento dos dados
@@ -42,3 +42,6 @@ Foi utilizado o dataset o "Brazilian E-commerce Public Dataset by Olist" dispon�
 ## 🚀 Como Executar
     ...
 
+##
+
+# 📊 Concluindo análises
