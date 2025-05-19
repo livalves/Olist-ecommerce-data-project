@@ -38,7 +38,7 @@ Foi utilizado o dataset o **Brazilian E-commerce Public Dataset by Olist** dispo
     │   ├── olist_customers_dataset.csv
     │   └── ...
     ├── image
-    │   └── modelagem.png
+    │   └── diagrama.png
     ├──  olist_ecommerce.ipynb
     ├── requirements.txt #-> Bibliotecas utilizadas 
     └── README.md
@@ -46,9 +46,9 @@ Foi utilizado o dataset o **Brazilian E-commerce Public Dataset by Olist** dispo
 
 ## 🚀 Como Executar
 1. Clone o repositório: ```git clone https://github.com/livalves/Olist-ecommerce-data-project.git```
-2. Instale as bibliotecas necessárias ```pip install -r requirements.txt```
-3. Acesse o arquivo principal: ```olist_ecommerce.ipynb``` 
-
+2. Acesse a pasta: ```cd Olist-ecommerce-data-project```
+3. Instale as bibliotecas necessárias ```pip install -r requirements.txt```
+4. Acesse o arquivo principal para executar os códigos: ```olist_ecommerce.ipynb``` 
 
 # 📊 Concluindo análises
 
